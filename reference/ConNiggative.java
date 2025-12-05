@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class ConNiggative
+public class ConvertNegative
 {
     public static void main(String [] args){
     int[] arr = {-1,3,-5,7,-9};
